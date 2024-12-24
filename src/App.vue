@@ -1,11 +1,11 @@
 <script setup>
-import ProductList from './components/ProductList.vue';
+import TodoApp from './components/TodoApp.vue';
 
 
 </script>
 
 <template>
-  <ProductList />
+  <TodoApp />
 </template>
 
 <style scoped>
